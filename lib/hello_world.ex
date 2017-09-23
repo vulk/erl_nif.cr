@@ -12,7 +12,7 @@ defmodule HelloWorld do
     :error
   end
 
-  def upcase(string) do
+  def upcase(_string) do
     :error
   end
 end
